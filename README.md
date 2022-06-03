@@ -20,7 +20,7 @@ The jest framework was used for testing.
 ## Credits
 [Jamel James](https://github.com/jrj-sys)
 ## Made With:
-HTML, CSS, Node.js, Express.js
+HTML, CSS, Node.js, Express.js, MongoDB & Mongoose ODM
 ## Contribution 
 Issues can be created at any time [here](https://github.com/jrj-sys/PizzaHunt/issues).
 ## Questions
