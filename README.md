@@ -24,11 +24,7 @@ HTML, CSS, Node.js, Express.js, MongoDB & Mongoose ODM
 ## Contribution 
 Issues can be created at any time [here](https://github.com/jrj-sys/PizzaHunt/issues).
 ## Questions
-Please reach out to me via GitHub or Email for additional questions.
-
-- [GitHub](https://github.com/jrj-sys)
-- Email: jamesjamel99@gmail.com
-
+Please reach out to me via [GitHub](https://github.com/jrj-sys) or Email (jamesjamel99@gmail.com) for additional questions.
 ## License
 This is free and unencumbered software released into the public domain.
 
