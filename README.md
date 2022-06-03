@@ -14,7 +14,7 @@ A social media recipe app where users can post their creative spins on pizza, ad
 ## Installation
 To install, clone the respository or download the zip to your targeted directory. Navigate to said directory and run `npm i` within your terminal.
 ## Usage
-Turn on the server with `npm run server` and navigate to http://localhost:3001/ in your browser, or view the app as deployed [here](shielded-bayou-64523.herokuapp.com/)
+Turn on the server with `npm run server` and navigate to http://localhost:3001/ in your browser, or view the app as deployed [here](shielded-bayou-64523.herokuapp.com/)!
 ## Tests
 The jest framework was used for testing.
 ## Credits
